@@ -1,0 +1,8 @@
+package com.RESTApi.RESTApi.Entity;
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "product")
+public class Product {
+
+}

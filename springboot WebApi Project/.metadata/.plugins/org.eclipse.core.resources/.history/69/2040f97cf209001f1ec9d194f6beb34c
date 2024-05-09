@@ -1,0 +1,11 @@
+package com.RESTApi.RESTApi.Service;
+import org.springframework.stereotype.Service;
+import java.util.List;
+import java.util.Optional;
+import com.example.demo.Entity.Product;
+import com.example.demo.repo.ProductRepository;
+
+@Service
+public class ProductService {
+
+}
